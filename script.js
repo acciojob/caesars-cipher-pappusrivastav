@@ -41,4 +41,4 @@ function rot13(encodedStr) {
   return decodedArr.join("");
 }
 
-console.log(rot13("SERR YBIR? NPPVBWBO")); // This should output "FREE LOVE? CAISSANO
+console.log(rot13("SERR YBIR? NPPVBWBO")); // This should output "FREE LOVE? CAISSANO"
